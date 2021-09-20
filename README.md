@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenickrj)](https://github.com/thenickrj/github-readme-stats)
 -->
 ### Hi there! 👋
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thenickrj)
