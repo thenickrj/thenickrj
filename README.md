@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thenickrj&theme=dark)](https://git.io/streak-stats)
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thenickrj)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thenickrj) -->
