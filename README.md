@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenickrj)](https://github.com/thenickrj/github-readme-stats)
 -->
 ### Hi there! 👋
+### I'm a Full Stack Developer
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thenickrj&theme=dark)](https://git.io/streak-stats)
 
 
