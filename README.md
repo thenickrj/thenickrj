@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 -->
+### Hey there!👋
+
+
 - 🔭 I’m currently working on anime app
 - 🌱 I’m currently learning react native
 <!--
@@ -20,7 +23,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenickrj)](https://github.com/thenickrj/github-readme-stats)
 -->
-### Hey there!👋
 <!-- ### I'm a Full Stack Developer -->
 
 ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=thenickrj&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues,stars&include_all_commits=true)
