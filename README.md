@@ -25,9 +25,14 @@ Here are some ideas to get you started:
 -->
 <!-- ### I'm a Full Stack Developer -->
 
-![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=thenickrj&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues,stars&include_all_commits=true)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=thenickrj&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues,stars&include_all_commits=true"/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thenickrj&theme=dark)](https://git.io/streak-stats)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thenickrj&theme=dark"/>
+  
+  
+<!-- ![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=thenickrj&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues,stars&include_all_commits=true)
+ -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thenickrj&theme=dark)](https://git.io/streak-stats) -->
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thenickrj)
