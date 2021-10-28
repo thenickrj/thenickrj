@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-### Hey there👋, I'm Nikhil Singh a passionate Full Stack Web Developer.
+### Hey there!👋, I'm Nikhil Singh a passionate Full Stack Web Developer.
 
 
 - 🔭 I’m currently working on anime app
